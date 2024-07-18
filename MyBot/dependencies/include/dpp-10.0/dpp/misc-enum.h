@@ -21,7 +21,7 @@
  ************************************************************************************/
 #pragma once
 #include <dpp/export.h>
-#include <cstddef>
+#include <stddef.h>
 #include <cstdint>
 
 namespace dpp {
